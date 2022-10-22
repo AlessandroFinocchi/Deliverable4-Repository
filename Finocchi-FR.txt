@@ -1,1 +1,8 @@
-TODO
+RE1:
+    The system shall provide a login/register form for external users.
+
+RE2:
+    The system shall allow professor user accounts to set the publication of notes on their course's channel at a specific time, defined by the professors themselves.
+
+R3:
+    The system shall send a push notification to student users who are subscribed to a professor's course whenever a note on that course is published.
