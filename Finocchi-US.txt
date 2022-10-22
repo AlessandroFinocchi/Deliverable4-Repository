@@ -1,1 +1,14 @@
-TODO
+US1:
+    As an external user,
+    I want to search for subjects' categories,
+    So that I can look for the notes I'm interested in.
+    
+US2:
+    As a student user,
+    I want to public my notes as private or public,
+    So that other students can see only the notes I set as public.
+    
+US3:
+    As a professor user,
+    I want to permit students to subscribe to my course,
+    So that they can receive push notifications whenever I public notes.
