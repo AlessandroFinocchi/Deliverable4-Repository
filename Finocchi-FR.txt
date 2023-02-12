@@ -6,3 +6,5 @@ RE2:
 
 R3:
     The system shall send a push notification to student users who are subscribed to a professor's course whenever a note on that course is published.
+
+fine.
